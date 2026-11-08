@@ -1,5 +1,5 @@
 
-(footprint MODULE_DFR0299 (layer F.Cu) (tedit 6AEF3812)
+(footprint MODULE_DFR0299 (layer F.Cu) (tedit 6AF05EAA)
   (descr "")
   (fp_text reference REF** (at -7.225 -11.235 0) (layer F.SilkS)
     (effects (font (size 1.0 1.0) (thickness 0.15)))

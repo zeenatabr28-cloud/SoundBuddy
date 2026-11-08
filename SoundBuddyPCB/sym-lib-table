@@ -1,0 +1,8 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "DFR0299") (type "KiCad") (uri "${KIPRJMOD}/DFR0299/DFR0299.kicad_sym") (options "") (descr ""))
+	(lib (name "ESP32-C3_SUPERMINI_TH") (type "KiCad") (uri "${KIPRJMOD}/ESP32-C3_SUPERMINI_TH/ESP32-C3_SUPERMINI_TH.kicad_sym") (options "") (descr ""))
+	(lib (name "PDQ2-D12-S5-S") (type "KiCad") (uri "${KIPRJMOD}/PDQ2-D12-S5-S/PDQ2-D12-S5-S.kicad_sym") (options "") (descr ""))
+	(lib (name "PJ324M") (type "KiCad") (uri "${KIPRJMOD}/PJ324M/PJ324M.kicad_sym") (options "") (descr ""))
+	(lib (name "USB1061-XX-X-X_REVA") (type "KiCad") (uri "${KIPRJMOD}/USB1061-XX-X-X_REVA/USB1061-XX-X-X_REVA.kicad_sym") (options "") (descr ""))
+)
