@@ -4973,16 +4973,6 @@
 	)
 	(wire
 		(pts
-			(xy 124.46 41.91) (xy 132.08 41.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8a6d68f8-abc0-40b8-bfba-403e37b9a5cf")
-	)
-	(wire
-		(pts
 			(xy 129.54 39.37) (xy 129.54 44.45)
 		)
 		(stroke
@@ -5080,16 +5070,6 @@
 			(type default)
 		)
 		(uuid "992c5c73-5b37-444a-955d-fa786a3f36d4")
-	)
-	(wire
-		(pts
-			(xy 124.46 41.91) (xy 124.46 44.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "994335e4-8938-4a17-8453-85b2204b4504")
 	)
 	(wire
 		(pts
@@ -5210,16 +5190,6 @@
 			(type default)
 		)
 		(uuid "b544ed9e-2238-4e4c-b119-e30ab80b73bf")
-	)
-	(wire
-		(pts
-			(xy 132.08 39.37) (xy 132.08 41.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b7bf3a28-fac8-4bff-8b40-c26ffbe3a19c")
 	)
 	(wire
 		(pts
@@ -5463,16 +5433,6 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 39.37) (xy 134.62 39.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f7a86afe-6a0e-48b8-9504-ec5e2a3aa995")
-	)
-	(wire
-		(pts
 			(xy 228.6 44.45) (xy 228.6 54.61)
 		)
 		(stroke
@@ -5656,6 +5616,41 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 124.46 44.45 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "ec498925-f465-4ffc-a63b-1748b2987531")
+		(property "Netclass" "SCL"
+			(at 127 43.7515 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Component Class" ""
+			(at 29.21 6.35 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
 			)
 		)
 	)
@@ -6522,7 +6517,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_DIP_SPSTx01_Slide_6.7x4.1mm_W6.73mm_P2.54mm_LowProfile_JPin"
+		(property "Footprint" "Button_Switch_SMD:SW_Push_1TS009xxxx-xxxx-xxxx_6x6x5mm"
 			(at 44.45 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -7165,7 +7160,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_DIP_SPSTx01_Slide_6.7x4.1mm_W6.73mm_P2.54mm_LowProfile_JPin"
+		(property "Footprint" "Button_Switch_SMD:SW_Push_1TS009xxxx-xxxx-xxxx_6x6x5mm"
 			(at 43.18 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -7579,7 +7574,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_DIP_SPSTx01_Slide_6.7x4.1mm_W6.73mm_P2.54mm_LowProfile_JPin"
+		(property "Footprint" "Button_Switch_SMD:SW_Push_1TS009xxxx-xxxx-xxxx_6x6x5mm"
 			(at 44.45 64.77 0)
 			(hide yes)
 			(show_name no)

@@ -521,7 +521,11 @@
       "version": 5
     },
     "net_colors": {},
-    "netclass_assignments": {},
+    "netclass_assignments": {
+      "unconnected-(U1-IO3-Pad6)": [
+        "SCL"
+      ]
+    },
     "netclass_patterns": []
   },
   "pcbnew": {
@@ -530,7 +534,7 @@
       "netlist": "",
       "plot": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "SoundBuddyPCB.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""

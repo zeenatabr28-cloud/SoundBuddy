@@ -1,0 +1,11 @@
+Plotted to 'C:\Users\zeena\OneDrive\Desktop\SoundBuddy\SoundBuddyPCB\SoundBuddyPCB-F_Cu.gbr'.
+Plotted to 'C:\Users\zeena\OneDrive\Desktop\SoundBuddy\SoundBuddyPCB\SoundBuddyPCB-B_Cu.gbr'.
+Plotted to 'C:\Users\zeena\OneDrive\Desktop\SoundBuddy\SoundBuddyPCB\SoundBuddyPCB-F_Paste.gbr'.
+Plotted to 'C:\Users\zeena\OneDrive\Desktop\SoundBuddy\SoundBuddyPCB\SoundBuddyPCB-B_Paste.gbr'.
+Plotted to 'C:\Users\zeena\OneDrive\Desktop\SoundBuddy\SoundBuddyPCB\SoundBuddyPCB-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\zeena\OneDrive\Desktop\SoundBuddy\SoundBuddyPCB\SoundBuddyPCB-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\zeena\OneDrive\Desktop\SoundBuddy\SoundBuddyPCB\SoundBuddyPCB-F_Mask.gbr'.
+Plotted to 'C:\Users\zeena\OneDrive\Desktop\SoundBuddy\SoundBuddyPCB\SoundBuddyPCB-B_Mask.gbr'.
+Plotted to 'C:\Users\zeena\OneDrive\Desktop\SoundBuddy\SoundBuddyPCB\SoundBuddyPCB-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\zeena\OneDrive\Desktop\SoundBuddy\SoundBuddyPCB\SoundBuddyPCB-job.gbrjob'.
+Info: Done.
