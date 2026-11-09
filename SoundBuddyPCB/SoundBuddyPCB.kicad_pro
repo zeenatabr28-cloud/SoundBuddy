@@ -521,20 +521,7 @@
       "version": 5
     },
     "net_colors": {},
-    "netclass_assignments": {
-      "Net-(SW6-B)": [
-        "SDA"
-      ],
-      "Net-(U1-IO1)": [
-        "GND"
-      ],
-      "unconnected-(U1-IO2-Pad5)": [
-        "VCC"
-      ],
-      "unconnected-(U1-IO3-Pad6)": [
-        "SCL"
-      ]
-    },
+    "netclass_assignments": {},
     "netclass_patterns": []
   },
   "pcbnew": {
